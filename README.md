@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Ravi-Singh-Madhad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ravi-Singh-Madhad/Ravi-Singh-Madhad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍🎓 I'm a front end developer
+🔭 I’m currently working on HTML || CSS || BOOTSTRAP || JAVASCRIPT || JQUERY || WORDPRESS || NODE.JS platform
+👨‍🏫 I'm the Community Leader at Codecademy J
+🌱 I'm currently learning: Data Structures and Algorithms and technologies from React ecosystem
+👯 Join my community if you're a tech enthusiast
+📬 How to reach me: Ravisinghrajputofficial@gmail.com
+💪 This is where I write, code and solve problems:
+         @ravisingh
